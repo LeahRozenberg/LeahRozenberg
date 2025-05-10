@@ -24,15 +24,36 @@ I am a Full Stack Developer with strong learning abilities, excellent logical th
 - **SQL Port Management System**  
   Designed the database, implemented and wrote Query Functions, Triggers, and Procedures for managing ship entry, exit, loading, and unloading.
 
-## Professional Knowledge
+## 🛠️ Professional Knowledge
 
-- **Programming Languages**: C#.Net, Java, Python, Node.js, C, C++
-- **Web Development**: React, Angular, JavaScript, CSS, HTML5
-- **Databases**: SQL Server, MySQL, MongoDB
-- **Development Environments**: Eclipse, Visual Studio, VS Code
-- **Additional Courses**: Digital Systems, Communication, Operating Systems, Information Systems Analysis, AWS DevOps, AI, Algorithms and Data Structures
-- **Tools**: Docker, Git
-- **Technologies**: Entity Framework, WinForms, ADO.NET
+**Programming Languages**:  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Web Development**:  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Databases**:  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Development Environments**:  
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**Tools**:  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Education
 
