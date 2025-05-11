@@ -18,19 +18,19 @@ Aspiring Full Stack Developer with strong learning abilities, excellent logical 
 ## 🛠️ Skills
 
 **Languages**:  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<a href="https://dotnet.microsoft.com/"><img src="https://img.icons8.com/?size=512&id=108784&format=png" alt="C#" width="40" height="40"/></a>
+<a href="https://www.java.com/"><img src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" width="40" height="40"/></a>
+<a href="https://www.python.org/"><img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="Python" width="40" height="40"/></a>
+<a href="https://nodejs.org/"><img src="https://img.icons8.com/?size=512&id=54087&format=png" alt="Node.js" width="40" height="40"/></a>
 
 **Web**:  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<a href="https://reactjs.org/"><img src="https://img.icons8.com/?size=512&id=123603&format=png" alt="React" width="40" height="40"/></a>
+<a href="https://angular.io/"><img src="https://img.icons8.com/?size=512&id=71288&format=png" alt="Angular" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/?size=512&id=108784&format=png" alt="JavaScript" width="40" height="40"/></a>
 
 **Databases**:  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.icons8.com/?size=512&id=132690&format=png" alt="SQL Server" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/"><img src="https://img.icons8.com/?size=512&id=74402&format=png" alt="MongoDB" width="40" height="40"/></a>
 
 ## Education
 
@@ -43,4 +43,8 @@ Aspiring Full Stack Developer with strong learning abilities, excellent logical 
 
 ---
 
-Explore my repositories to see my projects!
+Explore my repositories to see my projects
+
+
+<b style="color:red; font-weight:bold; font-size:1.1em;">‏המשך ההודעה נחסמה על ידי הסנן, אנא נסה שוב [
+מדיניות החסימה שלנו](https://terms.binaplus.co.il) </b>
