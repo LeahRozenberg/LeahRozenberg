@@ -18,19 +18,21 @@ Aspiring Full Stack Developer with strong learning abilities, excellent logical 
 ## 🛠️ Skills
 
 **Languages**:  
-<a href="https://dotnet.microsoft.com/"><img src="https://img.icons8.com/?size=512&id=108784&format=png" alt="C#" width="40" height="40"/></a>
-<a href="https://www.java.com/"><img src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" width="40" height="40"/></a>
-<a href="https://www.python.org/"><img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="Python" width="40" height="40"/></a>
-<a href="https://nodejs.org/"><img src="https://img.icons8.com/?size=512&id=54087&format=png" alt="Node.js" width="40" height="40"/></a>
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) &nbsp;
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) &nbsp;
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) &nbsp;
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
 
 **Web**:  
-<a href="https://reactjs.org/"><img src="https://img.icons8.com/?size=512&id=123603&format=png" alt="React" width="40" height="40"/></a>
-<a href="https://angular.io/"><img src="https://img.icons8.com/?size=512&id=71288&format=png" alt="Angular" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/?size=512&id=108784&format=png" alt="JavaScript" width="40" height="40"/></a>
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) &nbsp;
+![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) &nbsp;
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) &nbsp;
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) &nbsp;
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
 
 **Databases**:  
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.icons8.com/?size=512&id=132690&format=png" alt="SQL Server" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://img.icons8.com/?size=512&id=74402&format=png" alt="MongoDB" width="40" height="40"/></a>
+![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) &nbsp;
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
 
 ## Education
 
@@ -43,8 +45,4 @@ Aspiring Full Stack Developer with strong learning abilities, excellent logical 
 
 ---
 
-Explore my repositories to see my projects
-
-
-<b style="color:red; font-weight:bold; font-size:1.1em;">‏המשך ההודעה נחסמה על ידי הסנן, אנא נסה שוב [
-מדיניות החסימה שלנו](https://terms.binaplus.co.il) </b>
+Explore my repositories to see my projects!
